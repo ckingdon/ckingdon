@@ -1,5 +1,5 @@
 
-[ckingdon's gists](https://gist.github.com/ckingdon)
+[my gists](https://gist.github.com/ckingdon)
 
 <!--
 **ckingdon/ckingdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
